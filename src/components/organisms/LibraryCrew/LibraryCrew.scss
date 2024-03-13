@@ -1,0 +1,18 @@
+.library-crew{
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  padding: var(--space-3) 0;
+}
+
+.library-crew__container{
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.library-crew__container__items{
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-4);
+}

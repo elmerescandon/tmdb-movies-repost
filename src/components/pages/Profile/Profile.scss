@@ -1,0 +1,12 @@
+.profile--info{
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-5);
+  padding: var(--space-4);
+}
+
+.profile--favorites{ 
+  padding: var(--space-4);
+  background-color: var(--color-black80);
+  border-radius: 15px;
+}

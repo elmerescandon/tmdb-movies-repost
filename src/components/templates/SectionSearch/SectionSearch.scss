@@ -1,0 +1,12 @@
+.section-search--wait{
+  display: flex; 
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-2) 0;
+}
+
+.section-search__image--wait{
+  width: 600px;
+  max-width: 80%;
+  border: 3px solid var(--color-white);
+}

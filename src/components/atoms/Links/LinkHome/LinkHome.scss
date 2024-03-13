@@ -1,0 +1,22 @@
+@import '../../../../scss/abstracts/mixings'; 
+
+.link-home{
+  display: flex;
+  text-decoration: none;
+  padding: 20px 40px;
+  align-items: center;
+}
+
+.link-home__container{
+  display: flex;
+  width: 100px;
+  height: 100px;
+  @include circular-effect;
+  align-items: center;
+  justify-content: center;
+}
+
+.link-home__container__image{
+  width: 65px;
+  height: 65px;
+}

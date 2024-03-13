@@ -1,0 +1,16 @@
+.detail-thumbnail{
+  background-size: cover;
+  background-position: center 10%;
+  width: var(--detail-image-width);
+  height: var(--detail-image-height);
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.detail-thumbnail--titles{
+  padding: var(--space-0) 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

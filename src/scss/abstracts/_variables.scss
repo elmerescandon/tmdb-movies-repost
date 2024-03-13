@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap');
+
+:root {
+  --font-sora: 'Sora', sans-serif;
+
+  --color-blue: #001cbd;
+  --color-black100: #000000;
+  --color-black80: #141414;
+  --color-black60: #222222;
+  --color-grey100: #bcbcbc;
+  --color-grey60: #eeeeee;
+  --color-grey40: #f8f8f8;
+  --color-white: #ffffff;
+
+  --space-0: 128px;
+  --space-1: 64px;
+  --space-2: 48px;
+  --space-3: 32px;
+  --space-4: 24px;
+  --space-5: 16px;
+  --space-6: 8px;
+  --space-7: 4px;
+
+  --item-image-width: 150px;
+  --item-image-height: 225px;
+
+  --detail-image-width: auto;
+  --detail-image-height: 400px;
+
+  --lateral-padding: 10%;
+}

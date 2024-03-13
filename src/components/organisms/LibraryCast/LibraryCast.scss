@@ -1,0 +1,20 @@
+.library-cast{
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  padding: var(--space-3) 0;
+}
+
+.library-cast__container{
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.library-cast__container__items{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-4);
+}

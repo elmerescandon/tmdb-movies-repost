@@ -1,0 +1,14 @@
+.detail-similar-movies__movies {
+  padding: var(--space-4) 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-2);
+}
+
+.detail-similar-movies {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  padding: var(--space-4);
+}

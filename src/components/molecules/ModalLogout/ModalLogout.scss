@@ -1,0 +1,17 @@
+.modal-logout{
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  height: 200px;
+  background-color: var(--color-black60);
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-6);
+  border-radius: 20px;
+  border: 2px solid var(--color-white);
+}
+
+.modal-logout__options{
+  display: flex;
+  gap: var(--space-4);
+}
